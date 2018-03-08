@@ -9,6 +9,7 @@ import java.util.List;
 
 /**
  * Created by antLuck on 2018/3/8.
+ * 测试-solr接口
  */
 @Repository
 public interface TestSolrRepository extends SolrCrudRepository<TestSolr,String> {
